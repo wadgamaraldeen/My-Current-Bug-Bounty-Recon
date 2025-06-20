@@ -7,7 +7,7 @@
 1- I made this simple bash script for Subdomain Enumeration Proces :-
 
 
-Link :- https://github.com/wadgamaraldeen/My-Current-Recon/blob/main/subs.sh
+Link :- https://github.com/wadgamaraldeen/My-Current-Bug-Bounty-Recon/blob/main/subs.sh
 
 ## Environment Requirements
 
@@ -54,7 +54,7 @@ live-subs.txt
 
 2- I made this simple Bash Script for the live Urls, Parameters and Javascript Files Collecting from Specific domain or subdomain :-
 
-Link :- https://github.com/wadgamaraldeen/My-Current-Recon/blob/main/recon.sh
+Link :- https://github.com/wadgamaraldeen/My-Current-Bug-Bounty-Recon/blob/main/recon.sh
 
 ## Environment Requirements
 
